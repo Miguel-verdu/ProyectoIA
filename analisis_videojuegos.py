@@ -171,4 +171,4 @@ print(f"""
 - Juegos completados:    {completados.get(True, 0)} de {len(df)} ({completados.get(True, 0)/len(df)*100:.0f}%)
 """)
 
-print("¡Análisis completado! Revisa los 3 gráficos generados.")
+print("Análisis completado, revisa los 3 gráficos generados.")
