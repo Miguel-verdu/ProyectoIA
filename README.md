@@ -75,6 +75,8 @@ proyecto_videojuegos/
 ```bash
 # 1. Instalar dependencias
 pip install -r requirements.txt
+# En caso de que no funcione, prueba con la ruta completa de Python (Sustituye la ubicación por la tuya)
+C:\Users\migue\AppData\Local\Programs\Python\Python312\python.exe -m pip install -r requirements.txt
 
 # 2. Ejecutar el análisis
 python analisis_videojuegos.py
