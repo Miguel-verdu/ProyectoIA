@@ -56,7 +56,7 @@ Soy un jugador orientado a los RPGs de historia (Fire Emblem, Persona, NieR), pe
 ## 6. Estructura del repositorio
 
 ```
-proyecto_videojuegos/
+ProyectoIA/
 │
 ├── dataset_videojuegos.csv       # Dataset con los 20 juegos
 ├── analisis_videojuegos.py       # Código principal del análisis
